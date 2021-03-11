@@ -1,0 +1,18 @@
+C:\Users\casper\documents\visual studio 2015\Projects\BİGSMASHSPORSALONU\BUSİNESSLOGİCLAYER\obj\Debug\BUSİNESSLOGİCLAYER.csprojResolveAssemblyReference.cache
+C:\Users\casper\documents\visual studio 2015\Projects\BİGSMASHSPORSALONU\BUSİNESSLOGİCLAYER\bin\Debug\BUSİNESSLOGİCLAYER.dll
+C:\Users\casper\documents\visual studio 2015\Projects\BİGSMASHSPORSALONU\BUSİNESSLOGİCLAYER\bin\Debug\BUSİNESSLOGİCLAYER.pdb
+C:\Users\casper\documents\visual studio 2015\Projects\BİGSMASHSPORSALONU\BUSİNESSLOGİCLAYER\bin\Debug\ENTİTYLAYER.dll
+C:\Users\casper\documents\visual studio 2015\Projects\BİGSMASHSPORSALONU\BUSİNESSLOGİCLAYER\bin\Debug\FACADLAYER.dll
+C:\Users\casper\documents\visual studio 2015\Projects\BİGSMASHSPORSALONU\BUSİNESSLOGİCLAYER\bin\Debug\ENTİTYLAYER.pdb
+C:\Users\casper\documents\visual studio 2015\Projects\BİGSMASHSPORSALONU\BUSİNESSLOGİCLAYER\bin\Debug\FACADLAYER.pdb
+C:\Users\casper\documents\visual studio 2015\Projects\BİGSMASHSPORSALONU\BUSİNESSLOGİCLAYER\obj\Debug\BUSİNESSLOGİCLAYER.dll
+C:\Users\casper\documents\visual studio 2015\Projects\BİGSMASHSPORSALONU\BUSİNESSLOGİCLAYER\obj\Debug\BUSİNESSLOGİCLAYER.pdb
+C:\Users\casper\Desktop\PROJELERİM\BİG SMASH SPORSALONU APP\BUSİNESSLOGİCLAYER\bin\Debug\BUSİNESSLOGİCLAYER.dll
+C:\Users\casper\Desktop\PROJELERİM\BİG SMASH SPORSALONU APP\BUSİNESSLOGİCLAYER\bin\Debug\BUSİNESSLOGİCLAYER.pdb
+C:\Users\casper\Desktop\PROJELERİM\BİG SMASH SPORSALONU APP\BUSİNESSLOGİCLAYER\bin\Debug\ENTİTYLAYER.dll
+C:\Users\casper\Desktop\PROJELERİM\BİG SMASH SPORSALONU APP\BUSİNESSLOGİCLAYER\bin\Debug\FACADLAYER.dll
+C:\Users\casper\Desktop\PROJELERİM\BİG SMASH SPORSALONU APP\BUSİNESSLOGİCLAYER\bin\Debug\ENTİTYLAYER.pdb
+C:\Users\casper\Desktop\PROJELERİM\BİG SMASH SPORSALONU APP\BUSİNESSLOGİCLAYER\bin\Debug\FACADLAYER.pdb
+C:\Users\casper\Desktop\PROJELERİM\BİG SMASH SPORSALONU APP\BUSİNESSLOGİCLAYER\obj\Debug\BUSİNESSLOGİCLAYER.csprojResolveAssemblyReference.cache
+C:\Users\casper\Desktop\PROJELERİM\BİG SMASH SPORSALONU APP\BUSİNESSLOGİCLAYER\obj\Debug\BUSİNESSLOGİCLAYER.dll
+C:\Users\casper\Desktop\PROJELERİM\BİG SMASH SPORSALONU APP\BUSİNESSLOGİCLAYER\obj\Debug\BUSİNESSLOGİCLAYER.pdb

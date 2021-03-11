@@ -1,0 +1,10 @@
+c:\users\casper\documents\visual studio 2015\Projects\BİGSMASHSPORSALONU\ENTİTYLAYER\bin\Debug\ENTİTYLAYER.dll
+c:\users\casper\documents\visual studio 2015\Projects\BİGSMASHSPORSALONU\ENTİTYLAYER\bin\Debug\ENTİTYLAYER.pdb
+c:\users\casper\documents\visual studio 2015\Projects\BİGSMASHSPORSALONU\ENTİTYLAYER\obj\Debug\ENTİTYLAYER.csprojResolveAssemblyReference.cache
+c:\users\casper\documents\visual studio 2015\Projects\BİGSMASHSPORSALONU\ENTİTYLAYER\obj\Debug\ENTİTYLAYER.dll
+c:\users\casper\documents\visual studio 2015\Projects\BİGSMASHSPORSALONU\ENTİTYLAYER\obj\Debug\ENTİTYLAYER.pdb
+C:\Users\casper\Desktop\PROJELERİM\BİG SMASH SPORSALONU APP\ENTİTYLAYER\bin\Debug\ENTİTYLAYER.dll
+C:\Users\casper\Desktop\PROJELERİM\BİG SMASH SPORSALONU APP\ENTİTYLAYER\bin\Debug\ENTİTYLAYER.pdb
+C:\Users\casper\Desktop\PROJELERİM\BİG SMASH SPORSALONU APP\ENTİTYLAYER\obj\Debug\ENTİTYLAYER.csprojResolveAssemblyReference.cache
+C:\Users\casper\Desktop\PROJELERİM\BİG SMASH SPORSALONU APP\ENTİTYLAYER\obj\Debug\ENTİTYLAYER.dll
+C:\Users\casper\Desktop\PROJELERİM\BİG SMASH SPORSALONU APP\ENTİTYLAYER\obj\Debug\ENTİTYLAYER.pdb

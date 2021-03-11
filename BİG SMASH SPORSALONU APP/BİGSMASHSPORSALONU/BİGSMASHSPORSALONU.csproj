@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FC4A6E56-A6CC-4ED1-9429-F33548EB2B92}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BİGSMASHSPORSALONU</RootNamespace>
+    <AssemblyName>BİGSMASHSPORSALONU</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="KASA EKRANLARI\KASAFONKSİYONLARI.cs" />
+    <Compile Include="SPORCU EKRANLARI\ANAEKRAN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPORCU EKRANLARI\ANAEKRAN.Designer.cs">
+      <DependentUpon>ANAEKRAN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ANA GİRİŞ EKRANI\ANAGİRİŞ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ANA GİRİŞ EKRANI\ANAGİRİŞ.Designer.cs">
+      <DependentUpon>ANAGİRİŞ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KASA EKRANLARI\EKSTRAGELİR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KASA EKRANLARI\EKSTRAGELİR.Designer.cs">
+      <DependentUpon>EKSTRAGELİR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KASA EKRANLARI\EKSTRAHARAKETLERAYRINTI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KASA EKRANLARI\EKSTRAHARAKETLERAYRINTI.Designer.cs">
+      <DependentUpon>EKSTRAHARAKETLERAYRINTI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KASA EKRANLARI\HARAKETLERAYRINTI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KASA EKRANLARI\HARAKETLERAYRINTI.Designer.cs">
+      <DependentUpon>HARAKETLERAYRINTI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KASA EKRANLARI\KASAHARAKETLER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KASA EKRANLARI\KASAHARAKETLER.Designer.cs">
+      <DependentUpon>KASAHARAKETLER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SPORCU EKRANLARI\MESAJGÖNDERİLECEKTELEFONLAR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPORCU EKRANLARI\MESAJGÖNDERİLECEKTELEFONLAR.Designer.cs">
+      <DependentUpon>MESAJGÖNDERİLECEKTELEFONLAR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SPORCU EKRANLARI\PROGRAM CS KLASÖRÜ\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SPORCU EKRANLARI\SPORCUAİDATYENİLEME.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPORCU EKRANLARI\SPORCUAİDATYENİLEME.Designer.cs">
+      <DependentUpon>SPORCUAİDATYENİLEME.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SPORCU EKRANLARI\SPORCUBİLGİGÜNCELLE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPORCU EKRANLARI\SPORCUBİLGİGÜNCELLE.Designer.cs">
+      <DependentUpon>SPORCUBİLGİGÜNCELLE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SPORCU EKRANLARI\SPORCU FONKSİYONLARI\SPORCUFONKSİYONLARI.cs" />
+    <Compile Include="GENEL PROGRAM FONKSİYONLARI\VARİABLESAYHESAPLA.cs" />
+    <Compile Include="GENEL PROGRAM FONKSİYONLARI\VARİABLESFİYATHESAPLA.cs" />
+    <Compile Include="GENEL PROGRAM FONKSİYONLARI\VKİNDEXHESAPLA.cs" />
+    <Compile Include="SPORCUAİDATYENİLE.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SPORCUAİDATYENİLE.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ÇALIŞAN EKRANLARI\YENİÇALIŞANKAYIT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ÇALIŞAN EKRANLARI\YENİÇALIŞANKAYIT.Designer.cs">
+      <DependentUpon>YENİÇALIŞANKAYIT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ÇALIŞAN EKRANLARI\ÇALIŞANFONKSİYONLARI.cs" />
+    <Compile Include="ÇALIŞAN EKRANLARI\ÇALIŞANGÜNCELLE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ÇALIŞAN EKRANLARI\ÇALIŞANGÜNCELLE.Designer.cs">
+      <DependentUpon>ÇALIŞANGÜNCELLE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SPORCU EKRANLARI\ÜYELİĞİDOLANSPORCULAR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPORCU EKRANLARI\ÜYELİĞİDOLANSPORCULAR.Designer.cs">
+      <DependentUpon>ÜYELİĞİDOLANSPORCULAR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ÇALIŞANBİLGİLERİ.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ÇALIŞANBİLGİLERİ.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ÜYELİĞİDEVAMEDENSPORCULAR.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ÜYELİĞİDEVAMEDENSPORCULAR.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ÜYELİĞİDOLANSPORCULARDATA.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ÜYELİĞİDOLANSPORCULARDATA.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="SPORCU EKRANLARI\ANAEKRAN.resx">
+      <DependentUpon>ANAEKRAN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ANA GİRİŞ EKRANI\ANAGİRİŞ.resx">
+      <DependentUpon>ANAGİRİŞ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KASA EKRANLARI\EKSTRAGELİR.resx">
+      <DependentUpon>EKSTRAGELİR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KASA EKRANLARI\EKSTRAHARAKETLERAYRINTI.resx">
+      <DependentUpon>EKSTRAHARAKETLERAYRINTI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KASA EKRANLARI\HARAKETLERAYRINTI.resx">
+      <DependentUpon>HARAKETLERAYRINTI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KASA EKRANLARI\KASAHARAKETLER.resx">
+      <DependentUpon>KASAHARAKETLER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPORCU EKRANLARI\MESAJGÖNDERİLECEKTELEFONLAR.resx">
+      <DependentUpon>MESAJGÖNDERİLECEKTELEFONLAR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="SPORCU EKRANLARI\SPORCUAİDATYENİLEME.resx">
+      <DependentUpon>SPORCUAİDATYENİLEME.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPORCU EKRANLARI\SPORCUBİLGİGÜNCELLE.resx">
+      <DependentUpon>SPORCUBİLGİGÜNCELLE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ÇALIŞAN EKRANLARI\YENİÇALIŞANKAYIT.resx">
+      <DependentUpon>YENİÇALIŞANKAYIT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ÇALIŞAN EKRANLARI\ÇALIŞANGÜNCELLE.resx">
+      <DependentUpon>ÇALIŞANGÜNCELLE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPORCU EKRANLARI\ÜYELİĞİDOLANSPORCULAR.resx">
+      <DependentUpon>ÜYELİĞİDOLANSPORCULAR.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="SPORCUAİDATYENİLE.xsc">
+      <DependentUpon>SPORCUAİDATYENİLE.xsd</DependentUpon>
+    </None>
+    <None Include="SPORCUAİDATYENİLE.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SPORCUAİDATYENİLE.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SPORCUAİDATYENİLE.xss">
+      <DependentUpon>SPORCUAİDATYENİLE.xsd</DependentUpon>
+    </None>
+    <None Include="ÇALIŞANBİLGİLERİ.xsc">
+      <DependentUpon>ÇALIŞANBİLGİLERİ.xsd</DependentUpon>
+    </None>
+    <None Include="ÇALIŞANBİLGİLERİ.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ÇALIŞANBİLGİLERİ.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ÇALIŞANBİLGİLERİ.xss">
+      <DependentUpon>ÇALIŞANBİLGİLERİ.xsd</DependentUpon>
+    </None>
+    <None Include="ÜYELİĞİDEVAMEDENSPORCULAR.xsc">
+      <DependentUpon>ÜYELİĞİDEVAMEDENSPORCULAR.xsd</DependentUpon>
+    </None>
+    <None Include="ÜYELİĞİDEVAMEDENSPORCULAR.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ÜYELİĞİDEVAMEDENSPORCULAR.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ÜYELİĞİDEVAMEDENSPORCULAR.xss">
+      <DependentUpon>ÜYELİĞİDEVAMEDENSPORCULAR.xsd</DependentUpon>
+    </None>
+    <None Include="ÜYELİĞİDOLANSPORCULARDATA.xsc">
+      <DependentUpon>ÜYELİĞİDOLANSPORCULARDATA.xsd</DependentUpon>
+    </None>
+    <None Include="ÜYELİĞİDOLANSPORCULARDATA.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ÜYELİĞİDOLANSPORCULARDATA.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ÜYELİĞİDOLANSPORCULARDATA.xss">
+      <DependentUpon>ÜYELİĞİDOLANSPORCULARDATA.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ANA GİRİŞ EKRANI\App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUSİNESSLOGİCLAYER\BUSİNESSLOGİCLAYER.csproj">
+      <Project>{7c6c4642-c28e-462f-a078-8912eca16268}</Project>
+      <Name>BUSİNESSLOGİCLAYER</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ENTİTYLAYER\ENTİTYLAYER.csproj">
+      <Project>{e9e8b7d4-c787-45d3-9bb5-2d2ca0798caf}</Project>
+      <Name>ENTİTYLAYER</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FACADLAYER\FACADLAYER.csproj">
+      <Project>{c72c586c-8c7d-463c-8f77-d9cb09920689}</Project>
+      <Name>FACADLAYER</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

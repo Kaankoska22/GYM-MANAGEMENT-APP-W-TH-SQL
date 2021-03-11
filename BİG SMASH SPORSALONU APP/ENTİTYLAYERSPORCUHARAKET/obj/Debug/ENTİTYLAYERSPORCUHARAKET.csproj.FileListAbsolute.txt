@@ -1,0 +1,5 @@
+C:\Users\casper\documents\visual studio 2015\Projects\BİGSMASHSPORSALONU\ENTİTYLAYERSPORCUHARAKET\bin\Debug\ENTİTYLAYERSPORCUHARAKET.dll
+C:\Users\casper\documents\visual studio 2015\Projects\BİGSMASHSPORSALONU\ENTİTYLAYERSPORCUHARAKET\bin\Debug\ENTİTYLAYERSPORCUHARAKET.pdb
+C:\Users\casper\documents\visual studio 2015\Projects\BİGSMASHSPORSALONU\ENTİTYLAYERSPORCUHARAKET\obj\Debug\ENTİTYLAYERSPORCUHARAKET.csprojResolveAssemblyReference.cache
+C:\Users\casper\documents\visual studio 2015\Projects\BİGSMASHSPORSALONU\ENTİTYLAYERSPORCUHARAKET\obj\Debug\ENTİTYLAYERSPORCUHARAKET.dll
+C:\Users\casper\documents\visual studio 2015\Projects\BİGSMASHSPORSALONU\ENTİTYLAYERSPORCUHARAKET\obj\Debug\ENTİTYLAYERSPORCUHARAKET.pdb
